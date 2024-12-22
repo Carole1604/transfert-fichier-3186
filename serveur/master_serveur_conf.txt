@@ -1,0 +1,15 @@
+[MASTER FONGIGURATION]
+PORT=6000
+
+[SOUS SERVEUR CONFIGURATION]
+[serveur1]
+IP1=localhost
+PORT1=6001
+
+[serveur2]
+IP2=localhost
+PORT2=6002
+
+[serveur3]
+IP3=localhost
+PORT3=6003

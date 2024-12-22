@@ -1,0 +1,3 @@
+IP=localhost
+PORT=6001
+DIRECTORY_PATH=/home/safidy/server1/
